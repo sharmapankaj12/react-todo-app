@@ -1,2 +1,14 @@
 # react-todo-app
-A simple Todo List application built with React.  Users can add tasks, delete tasks, convert tasks to uppercase,  and mark tasks as completed. Each task has a unique ID using UUID.
+This is a simple Todo List application built using React.
+Features:
+• Add new tasks
+• Delete tasks
+• Convert tasks to uppercase
+• Mark tasks as completed
+• Unique ID for each task using UUID
+
+Technologies Used:
+• React
+• JavaScript
+• UUID
+• CSS
